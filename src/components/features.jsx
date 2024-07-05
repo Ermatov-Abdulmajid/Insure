@@ -23,7 +23,7 @@ const Features = () => {
               Our application process can be completedn’t get stuck filling in tedious forms.
             </p>
           </li>
-          <li className="features__item col-md-4" >
+          <li className="features__item col-md-4" data-aos="fade-bottom">
             <img
               className="features__item-icon d-block mb-3"
               src={affordable}
