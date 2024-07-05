@@ -11,7 +11,7 @@ npm-debug.log*
 .env.local
 
 # Build output
-dist/
+node_modules/dist/
 build/
 
 # OS-specific files

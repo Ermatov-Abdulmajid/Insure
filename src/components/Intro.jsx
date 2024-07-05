@@ -1,9 +1,6 @@
 import "../App.css";
 import "../components/css/Intro.css";
 import imageIntro from "../assets/image-intro-desktop.jpg";
-import AOS from 'aos';
-import 'aos/dist/aos.css'; // You can also use <link> for styles
-AOS.init();
 
 export default function Intro() {
   return (
