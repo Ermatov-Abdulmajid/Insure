@@ -11,7 +11,7 @@ const Features = () => {
         <h1 className="features__heading text-center text-md-start mb-5">We’re different</h1>
 
         <ul className="features__list list-unstyled p-0 row justify-content-center align-items-center">
-          <li className="features__item col-md-4" data-aos="fade-left">
+          <li className="features__item col-md-4">
             <img
               className="features__item-icon d-block mb-3"
               src={snappy}
@@ -23,7 +23,7 @@ const Features = () => {
               Our application process can be completedn’t get stuck filling in tedious forms.
             </p>
           </li>
-          <li className="features__item col-md-4" data-aos="fade-bottom">
+          <li className="features__item col-md-4">
             <img
               className="features__item-icon d-block mb-3"
               src={affordable}
@@ -35,7 +35,7 @@ const Features = () => {
               We don’t want you worrying about highe low but we still offer the best coverage possible.
             </p>
           </li>
-          <li className="features__item col-md-4" data-aos="fade-right">
+          <li className="features__item col-md-4">
             <img
               className="features__item-icon d-block mb-3"
               src={people}
